@@ -8,7 +8,7 @@ Proyek ini menganalisis data transaksi Olist untuk memahami dua hal yang sering 
 
 ## Dashboard
 
-Lihat dashboard interaktif di [Streamlit Community Cloud](https://e74msuh4aypedeau9bxoac.streamlit.app/).
+**Link dashboard:** https://e74msuh4aypedeau9bxoac.streamlit.app/
 
 ## Fokus Analisis
 
