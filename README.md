@@ -22,14 +22,14 @@ Gunakan Python 3.11 atau lebih baru.
 ```powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
-python -m pip install -r submission_original\requirements.txt
-python -m streamlit run submission_original\dashboard.py
+python -m pip install -r requirements.txt
+python -m streamlit run dashboard\dashboard.py
 ```
 
 ## Berkas utama
 
 - `analysis.py`: pemuatan, assessment, cleaning, EDA, dan RFM.
-- `dashboard.py`: dashboard Streamlit lokal.
+- `dashboard/dashboard.py`: dashboard Streamlit lokal.
 - `notebook.ipynb`: dokumentasi analisis yang dapat dijalankan sel demi sel.
 
 Sebelum mengumpulkan, ganti tiga placeholder identitas di atas dengan data milik Anda sendiri dan jalankan notebook dari awal.
