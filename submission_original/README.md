@@ -11,6 +11,10 @@ Proyek ini dibuat mandiri dari dataset Olist untuk menjawab dua kebutuhan bisnis
 
 Analisis lanjutan menggunakan RFM dengan pengelompokan manual; tidak ada machine learning. Nilai monetary adalah total harga item dalam BRL tanpa ongkir. Dashboard hanya ditujukan untuk dijalankan secara lokal.
 
+## Dashboard
+
+Dashboard interaktif dapat diakses di [Streamlit Community Cloud](https://e74msuh4aypedeau9bxoac.streamlit.app/).
+
 ## Menjalankan dashboard
 
 Gunakan Python 3.11 atau lebih baru.
